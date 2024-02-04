@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeShop", "CoffeShop\CoffeShop.csproj", "{0ED5759B-70C8-42F9-93BA-6C3FEF6288CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClassLibrary", "MyClassLibrary\MyClassLibrary.csproj", "{0B938FAA-BC26-4E51-9E14-DA052E0BC3AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ED5759B-70C8-42F9-93BA-6C3FEF6288CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED5759B-70C8-42F9-93BA-6C3FEF6288CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED5759B-70C8-42F9-93BA-6C3FEF6288CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED5759B-70C8-42F9-93BA-6C3FEF6288CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B938FAA-BC26-4E51-9E14-DA052E0BC3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B938FAA-BC26-4E51-9E14-DA052E0BC3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B938FAA-BC26-4E51-9E14-DA052E0BC3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B938FAA-BC26-4E51-9E14-DA052E0BC3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DE4929E-68E2-40F3-ADB5-718607409255}
+	EndGlobalSection
+EndGlobal
